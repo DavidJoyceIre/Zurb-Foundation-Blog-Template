@@ -1,4 +1,4 @@
-# Zurb-Foundation-Blog-Template
+# Zurb Foundation Blog Template
 Zurb Foundation Visual Studio Project Template
 
 Visual Studio Project Template to allow you to quickly create an Blog site using [Zurb Foundation](http://foundation.zurb.com/)
